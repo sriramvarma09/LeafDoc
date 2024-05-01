@@ -1,4 +1,5 @@
 # LeafDoc
+LeafDoc is a web-based Machine Learning and Deep Learning application designed to assist farmers in inteification of Plant Disease. This application consists of three main modules: Disease Identification,Cause of the Disease and Cures of the Disease.
 This project utilizes a ResNet50-based model for the detection of plant diseases. The system is built using Python and features a user-friendly interface developed with Streamlit. With this application, users can predict diseases affecting plant leaves based on images provided.
 
 Features
