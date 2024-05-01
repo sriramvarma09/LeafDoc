@@ -1,4 +1,4 @@
-# PlantDiseaseDetection
+# LeafDoc
 This project utilizes a ResNet50-based model for the detection of plant diseases. The system is built using Python and features a user-friendly interface developed with Streamlit. With this application, users can predict diseases affecting plant leaves based on images provided.
 
 Features
